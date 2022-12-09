@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041838210906",
+    "project_id": "signin-dc4ec",
+    "storage_bucket": "signin-dc4ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041838210906:android:9811dbf0c969017ec37d63",
+        "android_client_info": {
+          "package_name": "com.example.anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041838210906-mpl14026tp41egc1dbtlslrd9bnt3dcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anime",
+            "certificate_hash": "12de949e34fe6b779e47ca449f995c940c45899d"
+          }
+        },
+        {
+          "client_id": "1041838210906-c0e2bpk14hj6de4vjv56u3daqot2tb1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADE1I9Td8P6ynYKa3NYLUGNa2HOGfQgJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041838210906-c0e2bpk14hj6de4vjv56u3daqot2tb1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
